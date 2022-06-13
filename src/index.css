@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400|Poppins:300,400,800&display=swap');
+
+:root {
+  --font-base: "DM Sans", sans-serif;
+
+  --primary-color: #232323;
+  --secondary-color: #ffb510;
+  --black-color: #ffffff;
+  --lightGray-color: #e4e4e4;
+  --gray-color: #f7f7f7;
+  --brown-color: #a494a8;
+  --white-color: #3a3a3a;
+  --uwhite-color: #ffffff;
+  --yellow-color: #ffb510;
+  --pink-color: #e91e63;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
